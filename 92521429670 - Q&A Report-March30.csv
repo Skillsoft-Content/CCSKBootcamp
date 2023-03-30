@@ -1,0 +1,157 @@
+﻿Question Report,
+Report Generated:,"Mar 30, 2023 2:34 PM"
+Topic,Webinar ID,Actual Start Time,Actual Duration (minutes),# Question
+Certificate of Cloud Security Knowledge (CCSK) Bootcamp,925 2142 9670,"Mar 30, 2023 9:47 AM", 257, 61
+Question Details,
+#,Question,Asker Name,Asker Email,Answer,Question Time,Answered Time,Answer Name,Answer Email
+1,"Title of session is ""Certificate of Cloud Security Knowledge (CCSK) Bootcamp: March 2023 (sessions 1 to 2)""",Saurabh Aggarwal,'-,Yes that is the correct title and would have been associated with both sessions.,03/30/2023 11:03:31,03/30/2023 11:04:43,David Robichaud,david.robichaud@skillsoft.com
+2,Today is second session,Saurabh Aggarwal,'-,"Correct. The title only indicates that there are two sessions. I agree that (1 to 2) may be a little vague, but it is different than session 1 of 2",03/30/2023 11:03:42,03/30/2023 11:06:41,David Robichaud,david.robichaud@skillsoft.com
+3,"But it's a second day, isn't it? :)",Yurii Larchenko,'-,"Yes, this day 2 of the bootcamp",03/30/2023 11:05:43,03/30/2023 11:06:56,David Robichaud,david.robichaud@skillsoft.com
+4,No issue,Saurabh Aggarwal,'-,,03/30/2023 11:06:56,,
+5,Can you please share the PDF links on this window as well,null,'-,"You can download a PDF copy of the class syllabus, the slides, and the supplemental resources such as the Exam Tips document from the Resources drop-down menu of the Certificate of Cloud Security Knowledge (CCSK) Bootcamp channel in Percipio. You can also download these files from our GitHub or SharePoint sites, which you can access from here:
+
+GitHub:
+https://github.com/Skillsoft-Content/CCSKBootcamp
+
+OR
+
+SharePoint URL:
+https://skillsoft.sharepoint.com/:f:/s/LiveBootcamp/Emo0XPUlswJPtNYEwQGAqkABNOH5XQ33SUxO1oP9PnxtAA?e=P6mt8j",03/30/2023 11:08:52,03/30/2023 11:09:20,David Robichaud,david.robichaud@skillsoft.com
+6,Does this bootcamp count for CPE ?,Priyesh Tindumal Koroath Ravindran,'-,"It hasn't been pre-approved for CPE credit, so you will want to review the CPE requirements for your continuing educatiuon program to determine if it qualifies.",03/30/2023 11:11:16,03/30/2023 11:13:17,David Robichaud,david.robichaud@skillsoft.com
+7,How much time we get to complete 60 Question in exam.,Shashank Chaurasia,'-,The exam is 90 minutes,03/30/2023 11:13:49,03/30/2023 11:16:14,David Robichaud,david.robichaud@skillsoft.com
+8,Thanks,Priyesh Tindumal Koroath Ravindran,'-,You are welcome,03/30/2023 11:14:24,03/30/2023 11:16:22,David Robichaud,david.robichaud@skillsoft.com
+9,when the exam will be conduct for the certification?,Rajesh Kumar,'-,"The exam is online and not proctored, so you can register and take the exam at your convenience.
+
+You can take the exam by completing the following steps:
+
+1. Prepare for the exam through self-study or by participating in a CCSK training.
+2. Register at the CCSK exam website.
+3. Purchase a CCSK exam token (unless one was provided in your training package).
+
+https://ccsk.cloudsecurityalliance.org/en",03/30/2023 11:17:48,03/30/2023 11:21:11,David Robichaud,david.robichaud@skillsoft.com
+10,"If we use a CSP and we are the CSC , but then we resell a service to a client, and this Client ask the CCM ,",Dario Zandolin,'-,,03/30/2023 11:17:52,,
+11,"If we use a CSP and we are the CSC , but then we resell a service to a client, and this Client ask the CCM , what is our role  in the response of CCM?
+",Dario Zandolin,'-,In this scenario you would be a SaaS provider and should "fill-out" the QAIC and submit it to the STAR registry.,03/30/2023 11:18:57,03/30/2023 12:17:08,Michael Shannon,michael.shannon@skillsoft.com
+12,Should we download older material versions for the v4 test?,Michael Girgenti,'-,I would suggest sticking with the current material,03/30/2023 11:21:10,03/30/2023 11:21:41,David Robichaud,david.robichaud@skillsoft.com
+13,Thank you,Michael Girgenti,'-,You are welcome,03/30/2023 11:21:58,03/30/2023 11:22:12,David Robichaud,david.robichaud@skillsoft.com
+14,Will the slides and the recordings be available for downloading?,null,'-,"You can download a PDF copy of the class syllabus, the slides, and the supplemental resources such as the Exam Tips document from the Resources drop-down menu of the Certificate of Cloud Security Knowledge (CCSK) Bootcamp channel in Percipio. You can also download these files from our GitHub or SharePoint sites, which you can access from here:
+
+GitHub:
+https://github.com/Skillsoft-Content/CCSKBootcamp
+
+OR
+
+SharePoint URL:
+https://skillsoft.sharepoint.com/:f:/s/LiveBootcamp/Emo0XPUlswJPtNYEwQGAqkABNOH5XQ33SUxO1oP9PnxtAA?e=P6mt8j",03/30/2023 11:24:00,03/30/2023 11:24:25,David Robichaud,david.robichaud@skillsoft.com
+15,I forgot to do the survey from yesterday.  Can I still do it today? ,Lakai Collins,'-,"Yes, you can do it each day or once at the end of the bootcamp.
+
+Survey URL:
+https://surveys.skillsoft.com/jfe/form/SV_bO56CbmKmn7b9P0",03/30/2023 11:30:09,03/30/2023 11:32:12,David Robichaud,david.robichaud@skillsoft.com
+16,Security Guidelines PDF.  Is there link to download?,null,'-,"You can download the supplemental resources such as the Security-Guidance-v4.0-9-20-21.pdf from the Resources drop-down menu of the Certificate of Cloud Security Knowledge (CCSK) Bootcamp channel in Percipio. You can also download these files from our GitHub or SharePoint sites, which you can access from here:
+
+GitHub:
+https://github.com/Skillsoft-Content/CCSKBootcamp
+
+OR
+
+SharePoint URL:
+https://skillsoft.sharepoint.com/:f:/s/LiveBootcamp/Emo0XPUlswJPtNYEwQGAqkABNOH5XQ33SUxO1oP9PnxtAA?e=P6mt8j",03/30/2023 11:31:12,03/30/2023 11:33:23,David Robichaud,david.robichaud@skillsoft.com
+17,"Ok, thxu!",Lakai Collins,'-,You are welcome,03/30/2023 11:39:06,03/30/2023 11:39:18,David Robichaud,david.robichaud@skillsoft.com
+18,Playbook standfor?,Dr.Vinothini Gopal,'-,"In the context of security, a playbook is a set of documented procedures or guidelines that an organization can follow in the event of a security incident or breach. Security playbooks can help organizations respond to security incidents in a more effective and efficient manner, and can help ensure that all stakeholders are aware of their roles and responsibilities during a security event.
+
+Security playbooks typically include a series of steps or procedures that outline how to identify, contain, and remediate security incidents. They may also include guidelines for communicating with stakeholders, such as employees, customers, or regulatory bodies, and for reporting incidents to the appropriate authorities.
+
+Examples of security playbooks include incident response playbooks, which provide step-by-step instructions for responding to security incidents, and disaster recovery playbooks, which outline procedures for recovering from catastrophic events such as natural disasters or cyber attacks.",03/30/2023 11:40:03,03/30/2023 11:43:04,David Robichaud,david.robichaud@skillsoft.com
+19,Thx David,Dr.Vinothini Gopal,'-,You are welcome!,03/30/2023 11:44:23,03/30/2023 11:44:36,David Robichaud,david.robichaud@skillsoft.com
+20,"Sorry , I had to refresh browser and I lost my question. Was it replied?",Dario Zandolin,'-,It is still in Q&A. Michael will address it during the first break,03/30/2023 11:48:06,03/30/2023 11:48:52,David Robichaud,david.robichaud@skillsoft.com
+21,I dont find resources drop down menu ,null,'-,"Please note that the Resources drop-down is only available on the channel page. If you are on the Live Course page, which has the same title, you will not see this menu. You can quickly locate this channel by searching for ""Certificate of Cloud Security Knowledge (CCSK) Bootcamp"" in the search field on your site and then filtering by Channel",03/30/2023 12:06:24,03/30/2023 12:11:50,David Robichaud,david.robichaud@skillsoft.com
+22,Is there a link to a practice exam?,Lisa Reaves,'-,"We do not offer a practice exam for CCSK currently; however, if you have access to our online books from your account, the CCSK Certificate of Cloud Security Knowledge All-in-One Exam Guide provides access to practice exam. Details for accessing it are found in Appendix B",03/30/2023 12:32:52,03/30/2023 12:38:37,David Robichaud,david.robichaud@skillsoft.com
+22,Is there a link to a practice exam?,Lisa Reaves,'-,"To quickly locate this book, search for the title or the following ISBN number on your training site:
+
+ISBN: 9781260460087",03/30/2023 12:32:52,03/30/2023 12:39:44,David Robichaud,david.robichaud@skillsoft.com
+23,Thank you!  Appreciate the details.,Lisa Reaves,'-,You are welcome!,03/30/2023 12:40:22,03/30/2023 12:42:02,David Robichaud,david.robichaud@skillsoft.com
+24, CCSK Certificate of Cloud Security Knowledge All-in-One Exam Guide provides access to practice exam. Details for accessing it are found in Appendix B. Can you please share the link? ,Kumar Sambamurthy,'-,"Every organization has a unique URL to their training site and I only have access to my organization's training site. Therefore, I am not able to provide a link to the book or even determine if you have access to it. 
+
+To quickly locate this book, search for the title or the following ISBN number on your training site:
+
+ISBN: 9781260460087",03/30/2023 12:45:29,03/30/2023 12:49:26,David Robichaud,david.robichaud@skillsoft.com
+25,Percipio site is what i have access to from my Organization,Kumar Sambamurthy,'-,"Ok, were you able to use the search field on your Percipio training site to locate the CCSK book?
+
+You can also access the book from the Read tab of the Certificate of Cloud Security Knowledge (CCSK) Bootcamp channel in Percipio",03/30/2023 12:52:23,03/30/2023 12:55:15,David Robichaud,david.robichaud@skillsoft.com
+26,https://atos.percipio.com/books/712940c0-8f4f-4755-aa33-4a3737a3cf12,null,'-,I assume this is a link to the CCSK book on the ATOS Percipio training site. Please note that individuals that do not have credentials for the ATOS site would not be able to access this URL,03/30/2023 13:00:40,03/30/2023 13:02:50,David Robichaud,david.robichaud@skillsoft.com
+27,located the CCSK Certificate of Cloud Security Knowledge All-in-One Exam Guide,Kumar Sambamurthy,'-,Excellent!,03/30/2023 13:03:25,03/30/2023 13:04:09,David Robichaud,david.robichaud@skillsoft.com
+28,by Graham Thompson,Kumar Sambamurthy,'-,,03/30/2023 13:03:42,,
+29,Isnt this training meant for Atos folks only?,null,'-,"No, anyone can register for this bootcamp who has access to Skillsoft content. It is not restricted to Atos folks",03/30/2023 13:03:58,03/30/2023 13:05:33,David Robichaud,david.robichaud@skillsoft.com
+30,Noted. Thanks David.,null,'-,You are welcome,03/30/2023 13:05:57,03/30/2023 13:06:46,David Robichaud,david.robichaud@skillsoft.com
+31,So no distributed query.....more specific to the environment the data resides then correct?,Jeffery Webber,'-,"I'm not sure I understand the full context of your question; however, data management is generally more specific to the environment where the data resides, as each environment may have different regulatory requirements, data structures, and access controls. For example, data stored in a cloud environment may have different security and compliance requirements compared to data stored on-premises.
+
+In addition, the data lifecycle management process may differ depending on the type of data being managed. For example, highly sensitive data, such as personal identifying information (PII) or financial data, may require more stringent security controls and longer retention periods compared to less sensitive data.",03/30/2023 13:11:44,03/30/2023 13:23:56,David Robichaud,david.robichaud@skillsoft.com
+32,"I posted this in chat earlier and was hoping it could get some discussion if there was time at some point. Is data life cycle generally seen as a core security responsibility in large organizations, or are do companies have information management/library science specialists who focus on this? I've seen data lifecycles mostly driven by business decisions with security only having limited inputs. ",Daniyel Mills,'-,The Data Lifecycle is indeed a core initiative sincs Data is often the most valuable asset an organization has. Also sinve we are a moes data and service driven global economy. Companies often have a Chief Privacy or Chief Data Officer on the C-team today.,03/30/2023 13:14:40,03/30/2023 14:02:12,Michael Shannon,michael.shannon@skillsoft.com
+33,How we can get hold of chat conversations? ,Tanzim Shamsuddin,'-,"A transcipt of the chat would be included with the recordings on our SharePoint site. In SharePoint navigate to Audio_Video > 2023 > March and then select the session you wish to access the recording/transcript for. Each session will have different parts as we stop the recording during breaks.
+
+SharePoint URL:
+https://skillsoft.sharepoint.com/:f:/s/LiveBootcamp/Emo0XPUlswJPtNYEwQGAqkABNOH5XQ33SUxO1oP9PnxtAA?e=P6mt8j",03/30/2023 13:22:11,03/30/2023 13:28:16,David Robichaud,david.robichaud@skillsoft.com
+34,Hi David: where may I find recoding for yesterday's session ?,Tony Wen,'-,"The Replay video of session 1 is currently available in the Watch tab of the Certificate of Cloud Security Knowledge (CCSK) Bootcamp channel in Percipio. You can quickly locate this channel by searching for ""Certificate of Cloud Security Knowledge (CCSK) Bootcamp"" in the search field on your site. 
+
+The recording is also available on our SharePoint site by navigating to Audio_Video > 2023 > March and then select the session you wish to access the recording for:
+
+SharePoint URL:
+https://skillsoft.sharepoint.com/:f:/s/LiveBootcamp/Emo0XPUlswJPtNYEwQGAqkABNOH5XQ33SUxO1oP9PnxtAA?e=P6mt8j",03/30/2023 13:29:09,03/30/2023 13:30:08,David Robichaud,david.robichaud@skillsoft.com
+35,Thank you!,Tony Wen,'-,You are welcome!,03/30/2023 13:32:26,03/30/2023 13:32:49,David Robichaud,david.robichaud@skillsoft.com
+36,Will the questions and answers stored in sharepoint?,Dario Zandolin,'-,I will request that they be added to SharePoint and GitHub,03/30/2023 13:36:00,03/30/2023 13:37:10,David Robichaud,david.robichaud@skillsoft.com
+37,How can i improve the sound quality? the ,Eduardo Villanueva,'-,"The audio has been pretty good so far in the bootcamp from my end. Generally, refreshing your browser or exiting the session and rejoining will fix most audio issues. You may also be able to leave audio and rejoin from the lower left corner of your browser.",03/30/2023 13:39:46,03/30/2023 13:41:34,David Robichaud,david.robichaud@skillsoft.com
+38,Michael's speech keeps cutting off,Eduardo Villanueva,'-,It is probably your connection to the Zoom session. Try refreshing or exiting and rejoining the session.,03/30/2023 13:40:20,03/30/2023 13:46:46,David Robichaud,david.robichaud@skillsoft.com
+39,Thanks,Tanzim Shamsuddin,'-,You are welcome,03/30/2023 13:40:38,03/30/2023 13:41:40,David Robichaud,david.robichaud@skillsoft.com
+40,"David, you might have answer this question and I may have missed, sorry!   How do I sign up for taking CCSK exam ? And do I get a free exam by attending this CCSK) Bootcamp? If yes, when I may get a free voucher for the exam ?",Tony Wen,'-,"We do not offer a voucher/token for the exam. You will need to purchase one when your register. You can register from here:
+
+https://ccsk.cloudsecurityalliance.org/en
+
+With that in mind, I would suggest contacting your organization's training coordinator or your immediate manager/supervisor to see if they provide you with a voucher or if the reimburse you for the cost.",03/30/2023 13:41:00,03/30/2023 13:45:45,David Robichaud,david.robichaud@skillsoft.com
+41,I lost audio,Kumar Sambamurthy,'-,"Generally, refreshing your browser or exiting the session and rejoining will fix most audio issues. You may also be able to leave audio and rejoin from the lower left corner of your browser.",03/30/2023 13:45:35,03/30/2023 13:46:09,David Robichaud,david.robichaud@skillsoft.com
+42,Thanks!,Tony Wen,'-,You are welcome!,03/30/2023 13:46:42,03/30/2023 13:46:54,David Robichaud,david.robichaud@skillsoft.com
+43,"Hi, where i can get the recording for both sessions of this training?",null,'-,"The sessions are being recorded and will be available in the Watch tab of the Certificate of Cloud Security Knowledge (CCSK) Bootcamp channel in Percipio as Replay videos. The recordings will also be uploaded to our SharePoint site by navigating to Audio_Video > 2023 > March and then select the session you wish to access the recording for:
+
+SharePoint URL:
+https://skillsoft.sharepoint.com/:f:/s/LiveBootcamp/Emo0XPUlswJPtNYEwQGAqkABNOH5XQ33SUxO1oP9PnxtAA?e=P6mt8j",03/30/2023 13:52:39,03/30/2023 13:53:42,David Robichaud,david.robichaud@skillsoft.com
+44,Do we have the number of questions that will be part of each domain?,Kumar Sambamurthy,'-,"The CCSK-Guide-Text-Update.pdf that can be downloaded from the following URL provides a breakdown of questions by domain.
+
+https://cloudsecurityalliance.org/artifacts/ccskv4-exam-prep-kit/",03/30/2023 13:52:46,03/30/2023 13:55:46,David Robichaud,david.robichaud@skillsoft.com
+45,I cant find any of those docs,Sador Gebre,'-,"You can download a PDF copy of the class syllabus, the slides, and the supplemental resources such as the Exam Tips document from the Resources drop-down menu of the Certificate of Cloud Security Knowledge (CCSK) Bootcamp channel in Percipio. You can also download these files from our GitHub or SharePoint sites, which you can access from here:
+
+GitHub:
+https://github.com/Skillsoft-Content/CCSKBootcamp
+
+OR
+
+SharePoint URL:
+https://skillsoft.sharepoint.com/:f:/s/LiveBootcamp/Emo0XPUlswJPtNYEwQGAqkABNOH5XQ33SUxO1oP9PnxtAA?e=P6mt8j",03/30/2023 13:53:14,03/30/2023 13:54:03,David Robichaud,david.robichaud@skillsoft.com
+46,10 files altogether?,Shelley Chmil,'-,Correct,03/30/2023 13:55:01,03/30/2023 13:55:52,David Robichaud,david.robichaud@skillsoft.com
+47,Thank you,Sador Gebre,'-,You are welcome!,03/30/2023 13:55:37,03/30/2023 13:56:00,David Robichaud,david.robichaud@skillsoft.com
+48,ok,Kumar Sambamurthy,'-,,03/30/2023 13:56:30,,
+49,Any practice links you can recommend for us to practice before taking the exam?,Redell Estioko,'-,"We do not offer a practice exam for CCSK currently; however, if you have access to our online books from your account, the CCSK Certificate of Cloud Security Knowledge All-in-One Exam Guide provides access to practice exam. Details for accessing it are found in Appendix B
+David Robichaud (You) 01:39 PM 
+To quickly locate this book, search for the title or the following ISBN number on your training site:
+
+ISBN: 9781260460087",03/30/2023 13:56:41,03/30/2023 13:58:34,David Robichaud,david.robichaud@skillsoft.com
+50,THANK YOU SOOOO MUCH! Very informative.,Betty LaFary,'-,You are welcome!,03/30/2023 13:57:01,03/30/2023 13:57:35,David Robichaud,david.robichaud@skillsoft.com
+51,is the aws cloud exam open book too?,null,'-,It is not,03/30/2023 13:57:05,03/30/2023 13:57:43,David Robichaud,david.robichaud@skillsoft.com
+52,Whats the title of the class?,Raymond David,'-,AWS Cloud Practitioner Bootcamp. Is that what you meant?,03/30/2023 13:57:07,03/30/2023 14:02:45,Michael Shannon,michael.shannon@skillsoft.com
+53,If one has an CISSP and CCSP is it worth getting this Cert also?,Michael Laufer,'-,I believe Michael addressed this live,03/30/2023 13:57:47,03/30/2023 14:00:28,David Robichaud,david.robichaud@skillsoft.com
+54,Will you be forwarding us the Security guidance document,Premila Edmund,'-,"You can download a PDF copy of the class syllabus, the slides, and the supplemental resources such as the Exam Tips document from the Resources drop-down menu of the Certificate of Cloud Security Knowledge (CCSK) Bootcamp channel in Percipio. You can also download these files from our GitHub or SharePoint sites, which you can access from here:
+
+GitHub:
+https://github.com/Skillsoft-Content/CCSKBootcamp
+
+OR
+
+SharePoint URL:
+https://skillsoft.sharepoint.com/:f:/s/LiveBootcamp/Emo0XPUlswJPtNYEwQGAqkABNOH5XQ33SUxO1oP9PnxtAA?e=P6mt8j",03/30/2023 13:58:14,03/30/2023 14:01:42,David Robichaud,david.robichaud@skillsoft.com
+55,Survey link please?,Kumar Sambamurthy,'-,"Survey URL:
+https://surveys.skillsoft.com/jfe/form/SV_bO56CbmKmn7b9P0",03/30/2023 13:58:19,03/30/2023 14:03:56,David Robichaud,david.robichaud@skillsoft.com
+56,Is there any way we can connect with you or David to get some difficult Qs. answered that we face in the first test?,Suraj Nair,'-,shankhantoo@gmail.com,03/30/2023 13:59:35,03/30/2023 14:03:01,Michael Shannon,michael.shannon@skillsoft.com
+57,Was the majority of your test questions True/False or select the best answer?,Michael Girgenti,'-,I believe Michael mentioned he saw around 5 true/flase questions,03/30/2023 13:59:39,03/30/2023 14:02:24,David Robichaud,david.robichaud@skillsoft.com
+58,Is ESMA guidelines  in scope of the certification? ,Dario Zandolin,'-,Not on this exam,03/30/2023 14:00:15,03/30/2023 14:03:30,Michael Shannon,michael.shannon@skillsoft.com
+59,Thank you David,Redell Estioko,'-,You are welcome!,03/30/2023 14:00:31,03/30/2023 14:02:32,David Robichaud,david.robichaud@skillsoft.com
+60,How do we get the bootcamp completed certification ,Priyesh Tindumal Koroath Ravindran,'-,"If you attended yesterday's session from your Percipio training site and attend today's session from Percipio, you will be able to generate a certificate of completion from the Activity section of your account at the end of today's session.",03/30/2023 14:01:02,03/30/2023 14:03:43,David Robichaud,david.robichaud@skillsoft.com
+61,Please survey link,null,'-,"Survey URL:
+https://surveys.skillsoft.com/jfe/form/SV_bO56CbmKmn7b9P0",03/30/2023 14:02:07,03/30/2023 14:03:31,David Robichaud,david.robichaud@skillsoft.com
